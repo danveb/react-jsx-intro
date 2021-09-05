@@ -4,6 +4,7 @@ const App = () => {
         <div>
             {/* Components */}
             <FirstComponent /> 
+            <NamedComponent name="Daniel"/>
         </div>
     )
 }
